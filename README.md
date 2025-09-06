@@ -30,3 +30,4 @@ You play as a swimmer trying to survive while a hungry shark relentlessly chases
 1. Install Pyxel:
    ```bash
    pip install pyxel
+![YOT Gameplay](screenshots/yot_gameplay.png)

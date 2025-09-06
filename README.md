@@ -22,7 +22,7 @@ You play as a swimmer trying to survive while a hungry shark relentlessly chases
 ## 🛠️ Built With
 - [Pyxel](https://github.com/kitao/pyxel) — Retro game engine for Python
 - Simple collision & path prediction logic for the shark AI
-- Dynamic difficulty: shark speeds up over time!
+- Dynamic difficulty: shark speeds up over level!
 
 ---
 
